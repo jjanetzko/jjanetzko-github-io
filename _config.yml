@@ -250,7 +250,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: [Janetzko]
-  first_name: [John, C.]
+  first_name: [John]
 
   style: apa
   locale: en
